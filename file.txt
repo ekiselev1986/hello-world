@@ -1,3 +1,3 @@
 second file in project
 third branch update file
-add string from local
+add from git
