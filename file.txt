@@ -1,4 +1,8 @@
 second file in project
 third branch update file
 add from git
+<<<<<<< HEAD
 add string from local
+=======
+add from git2
+>>>>>>> 645057d95fca4d00364372a707e4ca794118b4c3
